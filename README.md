@@ -27,8 +27,8 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add your social media links here -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/athul-binu-36888025b/)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/athul-binu/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/athul-binu/" height="30" width="95" /></a>
+  
 </p>
 
 ## 🌐 Tech Stack:
