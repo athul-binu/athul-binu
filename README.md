@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋, I'm Athul Binu</h1>
 <p align="center">
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/76248875/302043151-15cff93e-f4d1-4be8-8715-832621dbf68a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240203%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240203T145935Z&X-Amz-Expires=300&X-Amz-Signature=52bafac43fd0f83012b473af5d54a0c8d7d764a26946e92c2df9ab1814ee3998&X-Amz-SignedHeaders=host&actor_id=76248875&key_id=0&repo_id=752251134">
+ <img width="900" height="400"src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </p>
 
 <h3 align="center">A motivated web developer passionate about crafting seamless and visually appealing digital experiences.</h3>
