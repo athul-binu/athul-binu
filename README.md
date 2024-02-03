@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋, I'm Athul Binu</h1>
 <p align="center">
-  <img align="center" width="600" height="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+ ![github-header-image (1)](https://github.com/athul-binu/athul-binu/assets/76248875/15cff93e-f4d1-4be8-8715-832621dbf68a)
 </p>
 
 <h3 align="center">A motivated web developer passionate about crafting seamless and visually appealing digital experiences.</h3>
